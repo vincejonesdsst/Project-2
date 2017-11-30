@@ -1,0 +1,47 @@
+html {
+  background-color: purple;
+  border-style: solid;
+  border-color: black;
+  border-width: 7px;
+font-size: 25px
+
+}
+img {
+  display: inline-block;
+}
+.wrapper {
+  display: inline-block;
+  width: 100%;
+}
+.spaced_right {
+  display:block;
+  float: right;
+  margin: 5px;
+}
+
+.spaced_left {
+  display:block;
+  float:left;
+  margin: 5px;
+}
+.spaced_left{
+  color: Gold
+}
+.achievements
+{
+  color: Gold
+}
+.lifeafterball
+{
+  color: Gold
+}
+.Career{
+  color: Gold
+}
+header{
+  background-color: white
+}
+
+body{
+    background-color: purple;
+}
